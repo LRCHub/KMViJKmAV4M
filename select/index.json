@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "マンマ・ミーア",
+  "base_artist": "ABBA",
+  "createdAt": "2026-02-16T15:49:14.460910Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "MAMMA MIA",
+      "artist": "ABBA",
+      "has_synced": false,
+      "path": "select/pl_01_MAMMA_MIA_ABBA.txt"
+    }
+  ]
+}
